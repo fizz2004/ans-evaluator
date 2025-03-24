@@ -1,7 +1,7 @@
 import requests
 
-GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY"
-SEARCH_ENGINE_ID = "YOUR_SEARCH_ENGINE_ID"
+GOOGLE_API_KEY = "AIzaSyBsqm0mKymLXHD9ySg6JP34QRkOIFyz2Bg"
+SEARCH_ENGINE_ID = "0208b4c23e9174f06"
 
 def search_answer(question):
     """Fetches the top answer from Google Search API."""
